@@ -20,7 +20,6 @@
 - Architecting clean, maintainable backend systems
 - Solving complex technical challenges
 - Collaborating with cross-functional teams
-- Contributing to open-source projects
 
 💡 **Key Strengths:**
 - Strong problem-solving skills and analytical thinking
@@ -29,10 +28,9 @@
 - Continuous learning mindset and adaptability
 
 🌍 **Goals for 2025:**
-- Contribute more to open-source communities
 - Master advanced AI/ML implementations
 - Build innovative projects that make a difference
-- Share knowledge through tech blogs and tutorials
+  
 ### 🧰 Languages and Tools
 <img align="left" alt="Laravel" width="100px" style="padding-right:10px;" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
