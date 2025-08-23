@@ -3,10 +3,10 @@
 🚀 **Passionate Full-Stack Developer** specializing in creating modern, scalable web applications that solve real-world problems
 
 💼 **Technical Expertise:**
-- **Backend:** Laravel (PHP), Java Spring Boot, C# .NET
+- **Backend:** Laravel (PHP),
 - **Frontend:** React, Vue.js, Angular, TypeScript
 - **Mobile:** React Native for cross-platform development
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **Databases:** MySQL, PostgreSQL, Redis
 - **DevOps:** Docker, Linux, AWS, CI/CD pipelines
 
 🌱 **Currently Learning & Exploring:**
@@ -34,7 +34,6 @@
 ### 🧰 Languages and Tools
 <img align="left" alt="Laravel" width="100px" style="padding-right:10px;" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Vue.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
