@@ -15,18 +15,6 @@
 - Advanced React patterns and performance optimization
 - Modern DevOps practices and containerization
 
-🎯 **What I Love:**
-- Building responsive, user-friendly interfaces
-- Architecting clean, maintainable backend systems
-- Solving complex technical challenges
-- Collaborating with cross-functional teams
-
-💡 **Key Strengths:**
-- Strong problem-solving skills and analytical thinking
-- Experience with agile development methodologies
-- Passion for writing clean, well-documented code
-- Continuous learning mindset and adaptability
-
 🌍 **Goals for 2025:**
 - Master advanced AI/ML implementations
 - Build innovative projects that make a difference
