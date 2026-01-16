@@ -15,7 +15,7 @@
 - Advanced React patterns and performance optimization
 - Modern DevOps practices and containerization
 
-🌍 **Goals for 2025:**
+🌍 **Goals for 2026:**
 - Master advanced AI/ML implementations
 - Build innovative projects that make a difference
   
