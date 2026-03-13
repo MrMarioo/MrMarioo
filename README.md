@@ -6,8 +6,8 @@
 - **Backend:** Laravel (PHP),
 - **Frontend:** React, Vue.js, Angular, TypeScript
 - **Mobile:** React Native for cross-platform development
-- **Databases:** MySQL, PostgreSQL, Redis
-- **DevOps:** Docker, Linux, AWS, CI/CD pipelines
+- **Databases:** MySQL, PostgreSQL, Redis, MariaDB, ElasticSearch
+- **DevOps:** Docker, Linux, AWS, CI/CD pipelines, Kubernetes
 
 🌱 **Currently Learning & Exploring:**
 - AI/ML with TensorFlow and Python
