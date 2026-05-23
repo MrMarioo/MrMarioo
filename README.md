@@ -3,7 +3,7 @@
 🚀 **Passionate Full-Stack Developer** specializing in creating modern, scalable web applications that solve real-world problems
 
 💼 **Technical Expertise:**
-- **Backend:** Laravel (PHP),
+- **Backend:** Laravel (PHP), ASP.NET
 - **Frontend:** React, Vue.js, Angular, TypeScript
 - **Mobile:** React Native for cross-platform development
 - **Databases:** MySQL, PostgreSQL, Redis, MariaDB, ElasticSearch
