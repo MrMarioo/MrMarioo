@@ -48,5 +48,4 @@
 ### 🔥 GitHub Activity
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MrMarioo&theme=react-dark)
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
