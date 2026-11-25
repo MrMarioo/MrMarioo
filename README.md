@@ -12,12 +12,6 @@
 - **Observability:** Grafana, Loki, Promtail, Sentry
 - **Testing:** PHPUnit, Pest, PHPStan, JUnit
 
-⚙️ **What I focus on:**
-- Reliable integrations: retries with backoff, circuit breakers, idempotent imports
-- Performance: fast search APIs and optimized data pipelines
-- Safe delivery: CI security gates, automated tests and safeguards that stop mistakes before production
-- Working daily with AI coding agents (Claude Code with custom skills and project conventions)
-
 🌱 **Currently focused on:**
 - Distributed systems and scalable backend architecture
 - AI agents and LLM tooling for developers
@@ -50,6 +44,8 @@
 <br />
 <br />
 <br />
+
+
 #
 ### 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=MrMarioo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
