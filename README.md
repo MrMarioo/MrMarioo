@@ -46,11 +46,17 @@
 <br />
 
 
-#
 ### 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=MrMarioo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrMarioo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMarioo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrMarioo&theme=dark&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=MrMarioo&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMarioo&theme=dark&layout=compact&langs_count=8" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrMarioo&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
 
 ### 🔥 GitHub Activity
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MrMarioo&theme=react-dark)
